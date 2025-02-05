@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
+</picture>
