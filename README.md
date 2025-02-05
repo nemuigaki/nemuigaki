@@ -1,14 +1,6 @@
-# Sadalsuud Profile
+# Welcome to SadalsuudICU's GitHub!
 
-<!-- knock code pictures 敲代码的图片 -->
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-</picture>
-
-<!-- for beauty 留个空行好看点 -->
+Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
@@ -16,19 +8,29 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Hello
 
-<tr><td>
 
-### 🤺 About Me
+## 📖 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
+- **Vue.js** for front-end development
+- **Java Spring Boot** for backend services
+- Integrating AI models into applications
+- Implementing complex **workflow systems**
+- Designing and managing **certificate management systems**
 
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<p>&emsp;&emsp; 个人公众号：<a href="https://github.com/Peter-JXL/vuepressblog/blob/master/images/QR-Code.png" target="_blank"> PeterJXL </a></p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+I also have a strong interest in **data security**, **cloud services**, and **devops**. When I'm not coding, I enjoy learning new technologies and contributing to open-source projects.
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Front-end**: Vue 3, JavaScript, Tailwind CSS, Vite
+- **Back-end**: Java Spring Boot, MyBatis-Plus, Activiti 7
+- **AI**: Tongyi Qianwen, ChatGPT, NLP & AI Model Integration
+- **Database**: MySQL, PostgreSQL
+- **Cloud**: Alibaba Cloud, VMware, Docker
+- **Version Control**: Git, GitHub
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -80,4 +82,24 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
+
+## 📬 Get in Touch
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+Feel free to open issues, contribute to any project, or simply reach out if you have any questions!
+
+---
+
+## 💬 Contributions
+
+I actively contribute to several open-source projects. You can find my contributions and repositories listed below. If you’d like to collaborate, feel free to reach out!
+
+---
+
+## 🚀 Let's Build Something Amazing Together!
+
+If you're interested in working on a project together or have an exciting idea, don't hesitate to reach out. Happy coding!
 
