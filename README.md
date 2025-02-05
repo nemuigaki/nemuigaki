@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
 
 <!-- metrics 基础资料 -->
-<img  src="/github-metrics.svg" style="width: 80%;"/>
+<img  src="/github-metrics.svg"/>
 
 
 ## 🤺 Self-introduction
