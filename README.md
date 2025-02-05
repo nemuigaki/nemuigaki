@@ -2,12 +2,8 @@
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
-</picture>
-
+<!-- metrics 基础资料 -->
+<img src="/github-metrics.svg" />
 
 
 ## 📖 About Me
@@ -32,64 +28,23 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 - **Cloud**: Alibaba Cloud, VMware, Docker
 - **Version Control**: Git, GitHub
 
-
-  <!-- for beauty 留个空行好看点 -->
-
-  <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
-
-## 🏢 Work Experience
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
-
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
-
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
-
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
-
-  - 工作岗位：实习生
-  - 工作内容：参与软件开发
-
-
-  <!-- for beauty 留个空行好看点 -->
-
-  <div>&nbsp;</div>
-
-</td></tr>
-
-
-
-</table>
+---
 
 ## 📊 GitHub 数据统计
 
-
-
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
-
 <!-- GitHub 数据统计 -->
-
-![Metrics](/github-metrics.svg)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
 
-## 📬 Get in Touch
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake.svg">
+</picture>
 
-Feel free to open issues, contribute to any project, or simply reach out if you have any questions!
 
 ---
 
