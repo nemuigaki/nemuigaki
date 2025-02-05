@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 
 <table>
 <tr><td>
-### 📖 About Me
+📖 About Me
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
 - **Vue.js** for front-end development
@@ -22,7 +22,7 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 </td></tr>
 
 <tr><td>
-### 🔧 Technologies & Tools
+🔧 Technologies & Tools
 
 - **Front-end**: Vue 3, JavaScript, Tailwind CSS, Vite
 - **Back-end**: Java Spring Boot, MyBatis-Plus, Activiti 7
