@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SadalsuudICU&left_color=green&right_color=red)
