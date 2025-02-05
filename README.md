@@ -5,7 +5,11 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 <!-- metrics 基础资料 -->
 <img src="/github-metrics.svg" />
 
-## 📖 About Me
+## 🤺 Self-introduction
+
+<table>
+<tr><td>
+### 📖 About Me
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
 - **Vue.js** for front-end development
@@ -15,10 +19,10 @@ Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involvi
 - Designing and managing **certificate management systems**
 
 I also have a strong interest in **data security**, **cloud services**, and **devops**. When I'm not coding, I enjoy learning new technologies and contributing to open-source projects.
+</td></tr>
 
-
-
-## 🔧 Technologies & Tools
+<tr><td>
+### 🔧 Technologies & Tools
 
 - **Front-end**: Vue 3, JavaScript, Tailwind CSS, Vite
 - **Back-end**: Java Spring Boot, MyBatis-Plus, Activiti 7
@@ -26,6 +30,10 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 - **Database**: MySQL, PostgreSQL
 - **Cloud**: Alibaba Cloud, VMware, Docker
 - **Version Control**: Git, GitHub
+
+</td></tr>
+
+</table>
 
 
 
