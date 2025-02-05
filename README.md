@@ -14,8 +14,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my personal proje
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
-- **Vue.js** for front-end development
 - **Java Spring Boot** for backend services
+- **Vue.js** for front-end development
 - Integrating AI models into applications
 - Implementing complex **workflow systems**
 - Designing and managing **certificate management systems**
@@ -26,11 +26,11 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 <tr><td>
 🔧 Technologies & Tools
 
-- **Front-end**: Vue 3, JavaScript, Tailwind CSS, Vite
 - **Back-end**: Java Spring Boot, MyBatis-Plus, Activiti 7
-- **AI**: Tongyi Qianwen, ChatGPT, NLP & AI Model Integration
+- **Front-end**: Vue 3, JavaScript, Tailwind CSS, Vite
+- **AI**: ChatGPT, Clude, Deepseek, NLP & AI Model Integration
 - **Database**: MySQL, PostgreSQL
-- **Cloud**: Alibaba Cloud, VMware, Docker
+- **Cloud**: Alibaba Cloud, VMware, Docker, K8s, Istio
 - **Version Control**: Git, GitHub
 
 </td></tr>
