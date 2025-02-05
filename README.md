@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadalsuudICU&bg_color=100e0e&color=f2f2f2&line=f0a8eb&point=787878&area=true&hide_border=true)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SadalsuudICU&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=SadalsuudICU&theme=dark&hide_border=true)
 
 
