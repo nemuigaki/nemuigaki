@@ -3,13 +3,14 @@
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
 
 <!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
+<img src="/github-metrics.svg" style="width: 100%;"/>
 
 ## 🤺 Self-introduction
 
 <table>
 <tr><td>
 📖 About Me
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 Hi, I'm **SadalsuudICU**. I am a developer who loves working on projects involving:
 - **Vue.js** for front-end development
