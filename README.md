@@ -1,8 +1,6 @@
-# Welcome to SadalsuudICU's GitHub!
+<h1>Welcome to SadalsuudICU's GitHub!</h1>
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
-
-<img  src="/VioletEvergarden.avif"/>
 
 ## 🤺 Self-introduction
 
