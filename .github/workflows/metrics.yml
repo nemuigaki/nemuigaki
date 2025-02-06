@@ -26,6 +26,6 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
-          base: header, repositories, metadata
-          config_display: columns
+          # # Options
+          # base: header, repositories, metadata
+          # config_display: columns
