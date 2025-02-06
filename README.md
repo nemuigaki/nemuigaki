@@ -2,7 +2,8 @@
   <h1>Welcome to SadalsuudICU's GitHub!</h1>
 </div>
 
-Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
+Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. Feel free to check out my repositories and build something with me!
+
 
 ## 🤺 Self-introduction
 
@@ -40,11 +41,10 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 ## 📊 GitHub statistics
 <!-- GitHub 数据统计 -->
 
-<!-- metrics 基础资料 -->
-<img  src="/github-metrics.svg"/>
-
 ![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
 
+<!-- metrics 基础资料 -->
+<img  src="/github-metrics.svg"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadalsuudICU/SadalsuudICU/output/github-contribution-grid-snake-dark.svg">
