@@ -27,7 +27,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: SadalsuudICU
           template: classic
           base: header, repositories, metadata
           config_display: columns
