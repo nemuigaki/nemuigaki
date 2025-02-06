@@ -2,11 +2,7 @@
 
 Welcome to my GitHub profile! Here you'll find a collection of my personal projects, contributions, and experiments in the world of programming. I am passionate about **Vue.js**, **Java Spring Boot**, **AI**, **Workflows**, and various other technologies. Feel free to check out my repositories!
 
-<img  src="/VioletEvergarden .avif"/>
-
-<!-- metrics 基础资料 -->
-<img  src="/github-metrics.svg"/>
-
+<img  src="/VioletEvergarden.avif"/>
 
 ## 🤺 Self-introduction
 
@@ -43,6 +39,9 @@ I also have a strong interest in **data security**, **cloud services**, and **de
 
 ## 📊 GitHub statistics
 <!-- GitHub 数据统计 -->
+
+<!-- metrics 基础资料 -->
+<img  src="/github-metrics.svg"/>
 
 ![GitHub Streak](https://github-readme-streak-stats-dusky-ten.vercel.app?user=SadalsuudICU&theme=dark&hide_border=true)
 
