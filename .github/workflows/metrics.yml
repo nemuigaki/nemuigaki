@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: Production
+      name: production
     permissions:
       contents: write
     steps:
